@@ -1,0 +1,5681 @@
+fileFormatVersion: 2
+guid: 0b822e9b90cf472409538e7edee16a53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 521958873513634346
+    second: swapasdasdile_0
+  - first:
+      213: 4149425967245496635
+    second: swapasdasdile_1
+  - first:
+      213: -3323625992199825746
+    second: swapasdasdile_2
+  - first:
+      213: 6035225364452269960
+    second: swapasdasdile_3
+  - first:
+      213: 5081293186781205793
+    second: swapasdasdile_4
+  - first:
+      213: 6851560432224731590
+    second: swapasdasdile_5
+  - first:
+      213: -8477843402672640042
+    second: swapasdasdile_6
+  - first:
+      213: 4378170658274512355
+    second: swapasdasdile_7
+  - first:
+      213: 3188863555388063841
+    second: swapasdasdile_8
+  - first:
+      213: 4334540257581851235
+    second: swapasdasdile_9
+  - first:
+      213: -7084771962632778594
+    second: swapasdasdile_10
+  - first:
+      213: 5571037578296490516
+    second: swapasdasdile_11
+  - first:
+      213: 4681616194942627631
+    second: swapasdasdile_12
+  - first:
+      213: -3252048117133663242
+    second: swapasdasdile_13
+  - first:
+      213: -5282136659270079937
+    second: swapasdasdile_14
+  - first:
+      213: 8003275845761287315
+    second: swapasdasdile_15
+  - first:
+      213: -9015771368466055716
+    second: swapasdasdile_16
+  - first:
+      213: 7754908967980288152
+    second: swapasdasdile_17
+  - first:
+      213: 5796818143342010891
+    second: swapasdasdile_18
+  - first:
+      213: 4933847052650568924
+    second: swapasdasdile_19
+  - first:
+      213: 7869754031969393933
+    second: swapasdasdile_20
+  - first:
+      213: -5292875769074937542
+    second: swapasdasdile_21
+  - first:
+      213: 2031907248161069653
+    second: swapasdasdile_22
+  - first:
+      213: 828727249950028747
+    second: swapasdasdile_23
+  - first:
+      213: 8081646959050371144
+    second: swapasdasdile_24
+  - first:
+      213: -1523416811985791405
+    second: swapasdasdile_25
+  - first:
+      213: -7149833671585369407
+    second: swapasdasdile_26
+  - first:
+      213: 6089493386241489657
+    second: swapasdasdile_27
+  - first:
+      213: -5657319393489010442
+    second: swapasdasdile_28
+  - first:
+      213: 8473388855565203906
+    second: swapasdasdile_29
+  - first:
+      213: -6939475545352466713
+    second: swapasdasdile_30
+  - first:
+      213: -5808179309159086475
+    second: swapasdasdile_31
+  - first:
+      213: 8639773104286914394
+    second: swapasdasdile_32
+  - first:
+      213: -560815271317287378
+    second: swapasdasdile_33
+  - first:
+      213: 7863517490149834177
+    second: swapasdasdile_34
+  - first:
+      213: 3390724585472167327
+    second: swapasdasdile_35
+  - first:
+      213: -5931457849620991732
+    second: swapasdasdile_36
+  - first:
+      213: 8263682421795775128
+    second: swapasdasdile_37
+  - first:
+      213: -5693250438445558795
+    second: swapasdasdile_38
+  - first:
+      213: 7916039649388663213
+    second: swapasdasdile_39
+  - first:
+      213: 5693291219175243944
+    second: swapasdasdile_40
+  - first:
+      213: 723670508578683980
+    second: swapasdasdile_41
+  - first:
+      213: 4965382294839941689
+    second: swapasdasdile_42
+  - first:
+      213: -7321851462681783159
+    second: swapasdasdile_43
+  - first:
+      213: 1620046515396506881
+    second: swapasdasdile_44
+  - first:
+      213: 6136326169874904302
+    second: swapasdasdile_45
+  - first:
+      213: -4758016890701253950
+    second: swapasdasdile_46
+  - first:
+      213: 3356148080878725962
+    second: swapasdasdile_47
+  - first:
+      213: -1510727715122532602
+    second: swapasdasdile_48
+  - first:
+      213: -517124341197173675
+    second: swapasdasdile_49
+  - first:
+      213: -7289270373851461152
+    second: swapasdasdile_50
+  - first:
+      213: 2471690991428224550
+    second: swapasdasdile_51
+  - first:
+      213: -2201335991554608893
+    second: swapasdasdile_52
+  - first:
+      213: -4945649846289204991
+    second: swapasdasdile_53
+  - first:
+      213: -6200553358217554258
+    second: swapasdasdile_54
+  - first:
+      213: -3053991393397473954
+    second: swapasdasdile_55
+  - first:
+      213: 3613242890064349652
+    second: swapasdasdile_56
+  - first:
+      213: 4920163383443882687
+    second: swapasdasdile_57
+  - first:
+      213: 4892543744219427979
+    second: swapasdasdile_58
+  - first:
+      213: -3911752996482869456
+    second: swapasdasdile_59
+  - first:
+      213: 1265766327112965470
+    second: swapasdasdile_60
+  - first:
+      213: -5720210134188028899
+    second: swapasdasdile_61
+  - first:
+      213: 7201764252287725333
+    second: swapasdasdile_62
+  - first:
+      213: -3120976349974625397
+    second: swapasdasdile_63
+  - first:
+      213: 8734460301573095269
+    second: swapasdasdile_64
+  - first:
+      213: 2917495156948265710
+    second: swapasdasdile_65
+  - first:
+      213: -6495507901644330932
+    second: swapasdasdile_66
+  - first:
+      213: -8060690167708516134
+    second: swapasdasdile_67
+  - first:
+      213: -5295097367301304441
+    second: swapasdasdile_68
+  - first:
+      213: -7474029254091093259
+    second: swapasdasdile_69
+  - first:
+      213: -7524646674770911284
+    second: swapasdasdile_70
+  - first:
+      213: -2754309698823653682
+    second: swapasdasdile_71
+  - first:
+      213: -1010137356093171475
+    second: swapasdasdile_72
+  - first:
+      213: 7313763360548717586
+    second: swapasdasdile_73
+  - first:
+      213: -4549493384290864174
+    second: swapasdasdile_74
+  - first:
+      213: -8310385583221649299
+    second: swapasdasdile_75
+  - first:
+      213: 7882446046450860745
+    second: swapasdasdile_76
+  - first:
+      213: -6578602099882031187
+    second: swapasdasdile_77
+  - first:
+      213: -1582956834181674944
+    second: swapasdasdile_78
+  - first:
+      213: -3607318521891311400
+    second: swapasdasdile_79
+  - first:
+      213: -8396769187744555542
+    second: swapasdasdile_80
+  - first:
+      213: -2241604494326969675
+    second: swapasdasdile_81
+  - first:
+      213: 5761916543281912689
+    second: swapasdasdile_82
+  - first:
+      213: -6107183807483004707
+    second: swapasdasdile_83
+  - first:
+      213: 1933367160662272984
+    second: swapasdasdile_84
+  - first:
+      213: -6618551423131424625
+    second: swapasdasdile_85
+  - first:
+      213: -7407699784881134121
+    second: swapasdasdile_86
+  - first:
+      213: 4115354274614970198
+    second: swapasdasdile_87
+  - first:
+      213: -2641969736307128623
+    second: swapasdasdile_88
+  - first:
+      213: -5751951192378110777
+    second: swapasdasdile_89
+  - first:
+      213: 8947339529912239830
+    second: swapasdasdile_90
+  - first:
+      213: -503546895526805154
+    second: swapasdasdile_91
+  - first:
+      213: -5338743507817433714
+    second: swapasdasdile_92
+  - first:
+      213: 7884069153716698245
+    second: swapasdasdile_93
+  - first:
+      213: 1743069966048527804
+    second: swapasdasdile_94
+  - first:
+      213: -4830027172293271299
+    second: swapasdasdile_95
+  - first:
+      213: -4861708888861503379
+    second: swapasdasdile_96
+  - first:
+      213: 834844729629272390
+    second: swapasdasdile_97
+  - first:
+      213: -7097646324470267137
+    second: swapasdasdile_98
+  - first:
+      213: 26212331682844479
+    second: swapasdasdile_99
+  - first:
+      213: 1613911862842653140
+    second: swapasdasdile_100
+  - first:
+      213: -968332668145139202
+    second: swapasdasdile_101
+  - first:
+      213: -1163414842659304647
+    second: swapasdasdile_102
+  - first:
+      213: 4131768921648000667
+    second: swapasdasdile_103
+  - first:
+      213: -3951874069476895000
+    second: swapasdasdile_104
+  - first:
+      213: -8669768072537926034
+    second: swapasdasdile_105
+  - first:
+      213: -340646515815784206
+    second: swapasdasdile_106
+  - first:
+      213: -6994547009509010852
+    second: swapasdasdile_107
+  - first:
+      213: -5483136948752703633
+    second: swapasdasdile_108
+  - first:
+      213: 5905687697166493079
+    second: swapasdasdile_109
+  - first:
+      213: 1514416230312464384
+    second: swapasdasdile_110
+  - first:
+      213: -7928079624553679350
+    second: swapasdasdile_111
+  - first:
+      213: 6457725624625417775
+    second: swapasdasdile_112
+  - first:
+      213: 6777305994701706972
+    second: swapasdasdile_113
+  - first:
+      213: -3419436994271953947
+    second: swapasdasdile_114
+  - first:
+      213: 4792532655342648361
+    second: swapasdasdile_115
+  - first:
+      213: -4368976115280128822
+    second: swapasdasdile_116
+  - first:
+      213: 8682413667365923488
+    second: swapasdasdile_117
+  - first:
+      213: 3832733298788593148
+    second: swapasdasdile_118
+  - first:
+      213: -9037178781937833552
+    second: swapasdasdile_119
+  - first:
+      213: -4067765436424860465
+    second: swapasdasdile_120
+  - first:
+      213: -8923147793489288748
+    second: swapasdasdile_121
+  - first:
+      213: 4780568362874532030
+    second: swapasdasdile_122
+  - first:
+      213: -4430538829863647257
+    second: swapasdasdile_123
+  - first:
+      213: 6464823602076216047
+    second: swapasdasdile_124
+  - first:
+      213: 4053956214756656781
+    second: swapasdasdile_125
+  - first:
+      213: -1908196143437079778
+    second: swapasdasdile_126
+  - first:
+      213: -668355057054601691
+    second: swapasdasdile_127
+  - first:
+      213: 6065350917929042084
+    second: swapasdasdile_128
+  - first:
+      213: 7543442685859534145
+    second: swapasdasdile_129
+  - first:
+      213: -9205877223597679091
+    second: swapasdasdile_130
+  - first:
+      213: 6885785944080806167
+    second: swapasdasdile_131
+  - first:
+      213: -4759371886420211510
+    second: swapasdasdile_132
+  - first:
+      213: -4150176383818138275
+    second: swapasdasdile_133
+  - first:
+      213: 6381514561048463575
+    second: swapasdasdile_134
+  - first:
+      213: -1863829335014440092
+    second: swapasdasdile_135
+  - first:
+      213: 2453061770557916358
+    second: swapasdasdile_136
+  - first:
+      213: -7561451147561330807
+    second: swapasdasdile_137
+  - first:
+      213: 3739128437404382150
+    second: swapasdasdile_138
+  - first:
+      213: 7315584544466758108
+    second: swapasdasdile_139
+  - first:
+      213: 4327122968461685497
+    second: swapasdasdile_140
+  - first:
+      213: -7962978029291387831
+    second: swapasdasdile_141
+  - first:
+      213: -3920108378400874722
+    second: swapasdasdile_142
+  - first:
+      213: -8016473374749126226
+    second: swapasdasdile_143
+  - first:
+      213: 8815201157836699466
+    second: swapasdasdile_144
+  - first:
+      213: -631240678551958026
+    second: swapasdasdile_145
+  - first:
+      213: -4944573816449922784
+    second: swapasdasdile_146
+  - first:
+      213: 1078361165437276024
+    second: swapasdasdile_147
+  - first:
+      213: -222604131440274478
+    second: swapasdasdile_148
+  - first:
+      213: 3567883146408214446
+    second: swapasdasdile_149
+  - first:
+      213: -4723945018654120951
+    second: swapasdasdile_150
+  - first:
+      213: -7172074969543185310
+    second: swapasdasdile_151
+  - first:
+      213: -2484132906365425898
+    second: swapasdasdile_152
+  - first:
+      213: 7332063989316272897
+    second: swapasdasdile_153
+  - first:
+      213: -7374944862928926427
+    second: swapasdasdile_154
+  - first:
+      213: 1626808480560526904
+    second: swapasdasdile_155
+  - first:
+      213: 2509185118825056298
+    second: swapasdasdile_156
+  - first:
+      213: 1313670114730211186
+    second: swapasdasdile_157
+  - first:
+      213: -6301525990181024819
+    second: swapasdasdile_158
+  - first:
+      213: -5326294698843761463
+    second: swapasdasdile_159
+  - first:
+      213: 4158353749120536488
+    second: swapasdasdile_160
+  - first:
+      213: 5180535233275508668
+    second: swapasdasdile_161
+  - first:
+      213: 7998584406262636632
+    second: swapasdasdile_162
+  - first:
+      213: -4240613014610035833
+    second: swapasdasdile_163
+  - first:
+      213: 8907626707990828430
+    second: swapasdasdile_164
+  - first:
+      213: 6382084698574230847
+    second: swapasdasdile_165
+  - first:
+      213: 4899325320692135324
+    second: swapasdasdile_166
+  - first:
+      213: 2797796530330201840
+    second: swapasdasdile_167
+  - first:
+      213: -734692380853905370
+    second: swapasdasdile_168
+  - first:
+      213: 6662066643307461523
+    second: swapasdasdile_169
+  - first:
+      213: 6790418962930009473
+    second: swapasdasdile_170
+  - first:
+      213: 2439415115061685173
+    second: swapasdasdile_171
+  - first:
+      213: -3925365330744269509
+    second: swapasdasdile_172
+  - first:
+      213: 5839286316224694472
+    second: swapasdasdile_173
+  - first:
+      213: -1992372549838995426
+    second: swapasdasdile_174
+  - first:
+      213: 1972751419320732768
+    second: swapasdasdile_175
+  - first:
+      213: 8944503592749360162
+    second: swapasdasdile_176
+  - first:
+      213: -5476791311034515463
+    second: swapasdasdile_177
+  - first:
+      213: -6886791225584001540
+    second: swapasdasdile_178
+  - first:
+      213: 838622844735886491
+    second: swapasdasdile_179
+  - first:
+      213: 7947924142034105419
+    second: swapasdasdile_180
+  - first:
+      213: 2000664800871371967
+    second: swapasdasdile_181
+  - first:
+      213: -6534741999341954718
+    second: swapasdasdile_182
+  - first:
+      213: 4944305610228033913
+    second: swapasdasdile_183
+  - first:
+      213: -8406484223588330010
+    second: swapasdasdile_184
+  - first:
+      213: 1834300779298583081
+    second: swapasdasdile_185
+  - first:
+      213: -436199533143630045
+    second: swapasdasdile_186
+  - first:
+      213: 8519599174052193020
+    second: swapasdasdile_187
+  - first:
+      213: -3387048469190236840
+    second: swapasdasdile_188
+  - first:
+      213: 5988652959130772141
+    second: swapasdasdile_189
+  - first:
+      213: -86241264659524405
+    second: swapasdasdile_190
+  - first:
+      213: -1543352644056546512
+    second: swapasdasdile_191
+  - first:
+      213: 6788090914575836465
+    second: swapasdasdile_192
+  - first:
+      213: -2268570809931979992
+    second: swapasdasdile_193
+  - first:
+      213: -2833082269332138912
+    second: swapasdasdile_194
+  - first:
+      213: 1914230714637109864
+    second: swapasdasdile_195
+  - first:
+      213: 9127680436272357298
+    second: swapasdasdile_196
+  - first:
+      213: -7107566933547503493
+    second: swapasdasdile_197
+  - first:
+      213: 3458513300660998166
+    second: swapasdasdile_198
+  - first:
+      213: -452086852813924602
+    second: swapasdasdile_199
+  - first:
+      213: -8230282955094655110
+    second: swapasdasdile_200
+  - first:
+      213: -6515321425136385338
+    second: swapasdasdile_201
+  - first:
+      213: 3381661711588398956
+    second: swapasdasdile_202
+  - first:
+      213: -7043073119106455063
+    second: swapasdasdile_203
+  - first:
+      213: -7876414279066822995
+    second: swapasdasdile_204
+  - first:
+      213: -341016049835438292
+    second: swapasdasdile_205
+  - first:
+      213: 7059113488415344429
+    second: swapasdasdile_206
+  - first:
+      213: -26740270017164811
+    second: swapasdasdile_207
+  - first:
+      213: 4001388450743599844
+    second: swapasdasdile_208
+  - first:
+      213: 6641121179097550014
+    second: swapasdasdile_209
+  - first:
+      213: -5289200762121736302
+    second: swapasdasdile_210
+  - first:
+      213: -1780778944161064402
+    second: swapasdasdile_211
+  - first:
+      213: 5550476181155118887
+    second: swapasdasdile_212
+  - first:
+      213: 8403051777062274304
+    second: swapasdasdile_213
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swapasdasdile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 749
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aa42b74de5e3700800000000000000
+      internalID: 521958873513634346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 730
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31137fbee8b59930800000000000000
+      internalID: 4149425967245496635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 755
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea69ca8f4cb10e1d0800000000000000
+      internalID: -3323625992199825746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 755
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fda933e7d61c350800000000000000
+      internalID: 6035225364452269960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 755
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125d4b54b31648640800000000000000
+      internalID: 5081293186781205793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 743
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c180e779e1a51f50800000000000000
+      internalID: 6851560432224731590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 755
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfee42c756a85a80800000000000000
+      internalID: -8477843402672640042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 754
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed8d74640362cc30800000000000000
+      internalID: 4378170658274512355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 755
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1604810228e114c20800000000000000
+      internalID: 3188863555388063841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 755
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362ebcd1661672c30800000000000000
+      internalID: 4334540257581851235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 755
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c40accf65ddad90800000000000000
+      internalID: -7084771962632778594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 730
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41af6bc292d405d40800000000000000
+      internalID: 5571037578296490516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 767
+        width: 137
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f6542002178f040800000000000000
+      internalID: 4681616194942627631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_13
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 729
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f325c1b7776ed2d0800000000000000
+      internalID: -3252048117133663242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 730
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a6321c1b412b6b0800000000000000
+      internalID: -5282136659270079937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 730
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394c0128af8511f60800000000000000
+      internalID: 8003275845761287315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 730
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd717e35bb81e280800000000000000
+      internalID: -9015771368466055716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 730
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898c4fd7e98fe9b60800000000000000
+      internalID: 7754908967980288152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 730
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02a075736f627050800000000000000
+      internalID: 5796818143342010891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 730
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc5855f0cb887440800000000000000
+      internalID: 4933847052650568924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 730
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ddb39a89bf63d60800000000000000
+      internalID: 7869754031969393933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_21
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 742
+        width: 137
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a311408e78deb86b0800000000000000
+      internalID: -5292875769074937542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 692
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a9e2f60e8c23c10800000000000000
+      internalID: 2031907248161069653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 694
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc335f40b0b308b00800000000000000
+      internalID: 828727249950028747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 694
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84030524717c72070800000000000000
+      internalID: 8081646959050371144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 701
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3569abc1b7cbbdae0800000000000000
+      internalID: -1523416811985791405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 705
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2f60a3820b6cc90800000000000000
+      internalID: -7149833671585369407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 689
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fab305a8f9328450800000000000000
+      internalID: 6089493386241489657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 692
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0c8224cf92d71b0800000000000000
+      internalID: -5657319393489010442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 692
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9b7bb2546879570800000000000000
+      internalID: 8473388855565203906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 686
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee81c722c702bf90800000000000000
+      internalID: -6939475545352466713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 692
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5768ccdf0b3356fa0800000000000000
+      internalID: -5808179309159086475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 692
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57def4ecd3a6e770800000000000000
+      internalID: 8639773104286914394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_33
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 705
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ec4886b759738f0800000000000000
+      internalID: -560815271317287378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_34
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 701
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdb37d9e73d02d60800000000000000
+      internalID: 7863517490149834177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_35
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 694
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d8040bb064e0f20800000000000000
+      internalID: 3390724585472167327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_36
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 694
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c017321138a3fada0800000000000000
+      internalID: -5931457849620991732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_37
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 692
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892e6c7316f7ea270800000000000000
+      internalID: 8263682421795775128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_38
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 680
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f39d1fe3e28df0b0800000000000000
+      internalID: -5693250438445558795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_39
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 680
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da118b1ce1c6bdd60800000000000000
+      internalID: 7916039649388663213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_40
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 680
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a08ac11332a20f40800000000000000
+      internalID: 5693291219175243944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_41
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 655
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c324e4e7efa0a00800000000000000
+      internalID: 723670508578683980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 682
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ad2f1b3e498e440800000000000000
+      internalID: 4965382294839941689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 680
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9849da433ee836a90800000000000000
+      internalID: -7321851462681783159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_44
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 680
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10571dde8bf8b7610800000000000000
+      internalID: 1620046515396506881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4b35dc32c982550800000000000000
+      internalID: 6136326169874904302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_46
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 631
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c27172d8d028fdb0800000000000000
+      internalID: -4758016890701253950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_47
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 631
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ba26ed5ee639e20800000000000000
+      internalID: 3356148080878725962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 631
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fa8c3b521d80be0800000000000000
+      internalID: -1510727715122532602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 644
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c0c3ac62ec2d8f0800000000000000
+      internalID: -517124341197173675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_50
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 645
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e90ec6173f47da90800000000000000
+      internalID: -7289270373851461152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_51
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 630
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626cc927cd53d4220800000000000000
+      internalID: 2471690991428224550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_52
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 630
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301fa1034984371e0800000000000000
+      internalID: -2201335991554608893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_53
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 644
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10977700ba58d5bb0800000000000000
+      internalID: -4945649846289204991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_54
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 644
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea65698929533f9a0800000000000000
+      internalID: -6200553358217554258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_55
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 631
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d7179220b0e95d0800000000000000
+      internalID: -3053991393397473954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_56
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 631
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9cd75c341d42230800000000000000
+      internalID: 3613242890064349652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_57
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 631
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb28e03778ee74440800000000000000
+      internalID: 4920163383443882687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_58
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 631
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8432421d9ec5e340800000000000000
+      internalID: 4892543744219427979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_59
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 630
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03791930069a6b9c0800000000000000
+      internalID: -3911752996482869456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 581
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d1838a4c7e09110800000000000000
+      internalID: 1265766327112965470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 595
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c022f903bbd90b0800000000000000
+      internalID: -5720210134188028899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 594
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f67bd4e6ec1f360800000000000000
+      internalID: 7201764252287725333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 606
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b830e5b9b8010b4d0800000000000000
+      internalID: -3120976349974625397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_64
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 607
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ff30cfd59073970800000000000000
+      internalID: 8734460301573095269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_65
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 607
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeae2df33660d7820800000000000000
+      internalID: 2917495156948265710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_66
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 607
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c482fb66af15bd5a0800000000000000
+      internalID: -6495507901644330932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_67
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 606
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad00045fffca22090800000000000000
+      internalID: -8060690167708516134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 607
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f46e2cff80486b0800000000000000
+      internalID: -5295097367301304441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_69
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 606
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fac5051ef9e64890800000000000000
+      internalID: -7474029254091093259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_70
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 606
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf94f177b5139790800000000000000
+      internalID: -7524646674770911284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_71
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 593
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6f3300ce9b6c9d0800000000000000
+      internalID: -2754309698823653682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_72
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 595
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8d6b33d654bf1f0800000000000000
+      internalID: -1010137356093171475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_73
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 581
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21406c4c605bf7560800000000000000
+      internalID: 7313763360548717586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_74
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 606
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d37a590fd3fcd0c0800000000000000
+      internalID: -4549493384290864174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 582
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60db85a7549bac80800000000000000
+      internalID: -8310385583221649299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_76
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 582
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2c2ef8ae2146d60800000000000000
+      internalID: 7882446046450860745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_77
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 581
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da784edbe3c14b4a0800000000000000
+      internalID: -6578602099882031187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 581
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04803db6525380ae0800000000000000
+      internalID: -1582956834181674944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_79
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 581
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d03bfeaaea30fdc0800000000000000
+      internalID: -3607318521891311400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_80
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 581
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed5a8769eea87b80800000000000000
+      internalID: -8396769187744555542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_81
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 557
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac8b4c69834e0e0800000000000000
+      internalID: -2241604494326969675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_82
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 556
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bd3c3719076ff40800000000000000
+      internalID: 5761916543281912689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_83
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 556
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd835f03facee3ba0800000000000000
+      internalID: -6107183807483004707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_84
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 556
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db2eaf6033b4da10800000000000000
+      internalID: 1933367160662272984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_85
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 556
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8868981c8e2624a0800000000000000
+      internalID: -6618551423131424625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 556
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d52c671b40923990800000000000000
+      internalID: -7407699784881134121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_87
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 556
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6578f4f98ecac1930800000000000000
+      internalID: 4115354274614970198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_88
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 557
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6c418c586d55bd0800000000000000
+      internalID: -2641969736307128623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_89
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 557
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc0bec9dd6fc20b0800000000000000
+      internalID: -5751951192378110777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_90
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 498
+        width: 29
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6ca3db5e55b2c70800000000000000
+      internalID: 8947339529912239830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_91
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 498
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51cf5434ca0309f0800000000000000
+      internalID: -503546895526805154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_92
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 530
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e857e95c019f8e5b0800000000000000
+      internalID: -5338743507817433714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_93
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 522
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cf5ebaf17d96d60800000000000000
+      internalID: 7884069153716698245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_94
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 531
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb589f026e0a03810800000000000000
+      internalID: 1743069966048527804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_95
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 519
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0a9fb90eb48fcb0800000000000000
+      internalID: -4830027172293271299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_96
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 519
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d601d06268db78cb0800000000000000
+      internalID: -4861708888861503379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_97
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 519
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649e820cbd6f59b00800000000000000
+      internalID: 834844729629272390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_98
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 520
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2c798d548108d90800000000000000
+      internalID: -7097646324470267137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_99
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 519
+        width: 204
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fc0be0aff1d5000800000000000000
+      internalID: 26212331682844479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_100
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 482
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d97683d944c56610800000000000000
+      internalID: 1613911862842653140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_101
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 482
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef18dca919acf82f0800000000000000
+      internalID: -968332668145139202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_102
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 482
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b00e85d58badfe0800000000000000
+      internalID: -1163414842659304647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_103
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 482
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ee3d471fdf65930800000000000000
+      internalID: 4131768921648000667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_104
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 482
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e690c3c87f1829c0800000000000000
+      internalID: -3951874069476895000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_105
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 482
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e669a575fdbcea780800000000000000
+      internalID: -8669768072537926034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_106
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 482
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f063d67cc7c54bf0800000000000000
+      internalID: -340646515815784206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_107
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 482
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52d175bd806eee90800000000000000
+      internalID: -6994547009509010852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_108
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 453
+        width: 204
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f96cafefbf7e3b0800000000000000
+      internalID: -5483136948752703633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_109
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 407
+        width: 29
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795e000cba735f150800000000000000
+      internalID: 5905687697166493079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_110
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 407
+        width: 29
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0005cd9a989440510800000000000000
+      internalID: 1514416230312464384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_111
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 407
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a063773169dc9f190800000000000000
+      internalID: -7928079624553679350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_112
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 407
+        width: 29
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e4cb8bd337e9950800000000000000
+      internalID: 6457725624625417775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 420
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6125cf4e3dd0e50800000000000000
+      internalID: 6777305994701706972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_114
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 420
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb3790bb28bb80d0800000000000000
+      internalID: -3419436994271953947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_115
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 420
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c7820ee0f728240800000000000000
+      internalID: 4792532655342648361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_116
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 420
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4df88fe574e53c0800000000000000
+      internalID: -4368976115280128822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_117
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 420
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaa754aa312e7870800000000000000
+      internalID: 8682413667365923488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_118
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 420
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdea19e0aa903530800000000000000
+      internalID: 3832733298788593148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_119
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 420
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9e5e267cd759280800000000000000
+      internalID: -9037178781937833552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_120
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 420
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccc84433e46c87c0800000000000000
+      internalID: -4067765436424860465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_121
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 420
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1a2c2db5c9a2480800000000000000
+      internalID: -8923147793489288748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_122
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 420
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb07b95f89df75240800000000000000
+      internalID: 4780568362874532030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_123
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 339
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7076288609382c0800000000000000
+      internalID: -4430538829863647257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_124
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 395
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea605160daa7b950800000000000000
+      internalID: 6464823602076216047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_125
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 383
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86ce83d2bb824830800000000000000
+      internalID: 4053956214756656781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_126
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 383
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b99a4b7b9b485e0800000000000000
+      internalID: -1908196143437079778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_127
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 383
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eac60ed9689b6f0800000000000000
+      internalID: -668355057054601691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 383
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0004536847c2450800000000000000
+      internalID: 6065350917929042084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_129
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 395
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1451d2ae721bfa860800000000000000
+      internalID: 7543442685859534145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_130
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 370
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ed991a0772e3080800000000000000
+      internalID: -9205877223597679091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_131
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 333
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711705c65d93f8f50800000000000000
+      internalID: 6885785944080806167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_132
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 333
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac841fb4c7053fdb0800000000000000
+      internalID: -4759371886420211510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_133
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 370
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dfd47419c9766c0800000000000000
+      internalID: -4150176383818138275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_134
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 370
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8c64cbea1bf8850800000000000000
+      internalID: 6381514561048463575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_135
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 321
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463038448195226e0800000000000000
+      internalID: -1863829335014440092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_136
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 222
+        width: 29
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c40236fea60b0220800000000000000
+      internalID: 2453061770557916358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 271
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987132b5e34501790800000000000000
+      internalID: -7561451147561330807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_138
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 321
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3bc09c08d04e330800000000000000
+      internalID: 3739128437404382150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_139
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 271
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd96741326d268560800000000000000
+      internalID: 7315584544466758108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_140
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 271
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2b79ae9670d0c30800000000000000
+      internalID: 4327122968461685497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_141
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 271
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944c8d90ca1dd7190800000000000000
+      internalID: -7962978029291387831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_142
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 271
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f1260133af899c0800000000000000
+      internalID: -3920108378400874722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_143
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 271
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea193b250f3cfb090800000000000000
+      internalID: -8016473374749126226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_144
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 271
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47f7748fb2e55a70800000000000000
+      internalID: 8815201157836699466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_145
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 271
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd422382f16d37f0800000000000000
+      internalID: -631240678551958026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_146
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 271
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0290ec8bf48516bb0800000000000000
+      internalID: -4944573816449922784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_147
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 222
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f077d34cb17fe00800000000000000
+      internalID: 1078361165437276024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_148
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 270
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d7fbc8b629ecf0800000000000000
+      internalID: -222604131440274478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_149
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 270
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafb3c571daa38130800000000000000
+      internalID: 3567883146408214446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_150
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 234
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90425a8b80d217eb0800000000000000
+      internalID: -4723945018654120951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_151
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 234
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c68e180dba77c90800000000000000
+      internalID: -7172074969543185310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_152
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 234
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617ea3d7846968dd0800000000000000
+      internalID: -2484132906365425898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_153
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 234
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10341a1f959b0c560800000000000000
+      internalID: 7332063989316272897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_154
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 234
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5298707a8bee6a990800000000000000
+      internalID: -7374944862928926427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_155
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 233
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8363761a1b5939610800000000000000
+      internalID: 1626808480560526904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_156
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 234
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a288343429a62d220800000000000000
+      internalID: 2509185118825056298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_157
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 234
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2777a8c52081b3210800000000000000
+      internalID: 1313670114730211186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_158
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 234
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb4e54bf7b7c88a0800000000000000
+      internalID: -6301525990181024819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_159
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 233
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c41f5af0333516b0800000000000000
+      internalID: -5326294698843761463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_160
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 234
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af4eb2f3b075b930800000000000000
+      internalID: 4158353749120536488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_161
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 234
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb738c5d855f4e740800000000000000
+      internalID: 5180535233275508668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_162
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 233
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8506341a32ea00f60800000000000000
+      internalID: 7998584406262636632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_163
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 233
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b35425ee05625c0800000000000000
+      internalID: -4240613014610035833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_164
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 184
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e855399db4f3e9b70800000000000000
+      internalID: 8907626707990828430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_165
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 209
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3519f83838b19850800000000000000
+      internalID: 6382084698574230847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_166
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 209
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c957ee2eb66edf340800000000000000
+      internalID: 4899325320692135324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_167
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 209
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fee628fe15c3d620800000000000000
+      internalID: 2797796530330201840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_168
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 209
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62854041c29ddc5f0800000000000000
+      internalID: -734692380853905370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_169
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 172
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bf150a05a647c50800000000000000
+      internalID: 6662066643307461523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_170
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 209
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1850581d11a6c3e50800000000000000
+      internalID: 6790418962930009473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_171
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 210
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb68f06f1b8ad120800000000000000
+      internalID: 2439415115061685173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_172
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 184
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35aa57770d4689c0800000000000000
+      internalID: -3925365330744269509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_173
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 197
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c84f5c77ff490150800000000000000
+      internalID: 5839286316224694472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_174
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 197
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e108b92d8bba954e0800000000000000
+      internalID: -1992372549838995426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_175
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 185
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c82cab6fe906b10800000000000000
+      internalID: 1972751419320732768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_176
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224e70aa0a2412c70800000000000000
+      internalID: 8944503592749360162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_177
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff77d4e1578ef3b0800000000000000
+      internalID: -5476791311034515463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_178
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 184
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdd9cc3ed33d60a0800000000000000
+      internalID: -6886791225584001540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_179
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b949209b80363ab00800000000000000
+      internalID: 838622844735886491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_180
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44b1b3b5e2bc4e60800000000000000
+      internalID: 7947924142034105419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_181
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 172
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4d092590ac3cb10800000000000000
+      internalID: 2000664800871371967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_182
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 147
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269956e26ceef45a0800000000000000
+      internalID: -6534741999341954718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_183
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 172
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979ec96a1c3bd9440800000000000000
+      internalID: 4944305610228033913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_184
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 147
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5971b532b265b80800000000000000
+      internalID: -8406484223588330010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_185
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922705917deb47910800000000000000
+      internalID: 1834300779298583081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_186
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 160
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f58cfe5de42f9f0800000000000000
+      internalID: -436199533143630045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_187
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 160
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2a71e5f42bb3670800000000000000
+      internalID: 8519599174052193020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_188
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855a2e4dc59cef0d0800000000000000
+      internalID: -3387048469190236840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_189
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 110
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2e4181328fb1350800000000000000
+      internalID: 5988652959130772141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_190
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 160
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc41df6d60c9dcef0800000000000000
+      internalID: -86241264659524405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_191
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 160
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03389df72f8e49ae0800000000000000
+      internalID: -1543352644056546512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_192
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 147
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1356952d8b4243e50800000000000000
+      internalID: 6788090914575836465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_193
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 147
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8232f262eda6480e0800000000000000
+      internalID: -2268570809931979992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_194
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 147
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0641005bfaedea8d0800000000000000
+      internalID: -2833082269332138912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_195
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 89
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a461461b6b09a10800000000000000
+      internalID: 1914230714637109864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_196
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 135
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfdb4b0ff80cae70800000000000000
+      internalID: 9127680436272357298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_197
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 135
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70b69c0889dc5d90800000000000000
+      internalID: -7107566933547503493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_198
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 89
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610dcd0e58b1fff20800000000000000
+      internalID: 3458513300660998166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_199
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 109
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607d662176dd9b9f0800000000000000
+      internalID: -452086852813924602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_200
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 109
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f71ac124928cd80800000000000000
+      internalID: -8230282955094655110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_201
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 151
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c20149feade495a0800000000000000
+      internalID: -6515321425136385338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_202
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 23
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6714cde8631eee20800000000000000
+      internalID: 3381661711588398956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_203
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 47
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9ae80605af14e90800000000000000
+      internalID: -7043073119106455063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_204
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 55
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da65868b1fa51b290800000000000000
+      internalID: -7876414279066822995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_205
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 52
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f0ade95b7744bf0800000000000000
+      internalID: -341016049835438292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_206
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 54
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d274a22215207f160800000000000000
+      internalID: 7059113488415344429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_207
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 53
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9cd68bddff0aff0800000000000000
+      internalID: -26740270017164811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_208
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 52
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e24cee7899c78730800000000000000
+      internalID: 4001388450743599844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_209
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 55
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcce66b6800a2c50800000000000000
+      internalID: 6641121179097550014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_210
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 47
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f22042eebf896b0800000000000000
+      internalID: -5289200762121736302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_211
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 23
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ad8c93cf66947e0800000000000000
+      internalID: -1780778944161064402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f7408dda0470d40800000000000000
+      internalID: 5550476181155118887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swapasdasdile_213
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 7
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0050309e113ad9470800000000000000
+      internalID: 8403051777062274304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      swapasdasdile_0: 521958873513634346
+      swapasdasdile_1: 4149425967245496635
+      swapasdasdile_10: -7084771962632778594
+      swapasdasdile_100: 1613911862842653140
+      swapasdasdile_101: -968332668145139202
+      swapasdasdile_102: -1163414842659304647
+      swapasdasdile_103: 4131768921648000667
+      swapasdasdile_104: -3951874069476895000
+      swapasdasdile_105: -8669768072537926034
+      swapasdasdile_106: -340646515815784206
+      swapasdasdile_107: -6994547009509010852
+      swapasdasdile_108: -5483136948752703633
+      swapasdasdile_109: 5905687697166493079
+      swapasdasdile_11: 5571037578296490516
+      swapasdasdile_110: 1514416230312464384
+      swapasdasdile_111: -7928079624553679350
+      swapasdasdile_112: 6457725624625417775
+      swapasdasdile_113: 6777305994701706972
+      swapasdasdile_114: -3419436994271953947
+      swapasdasdile_115: 4792532655342648361
+      swapasdasdile_116: -4368976115280128822
+      swapasdasdile_117: 8682413667365923488
+      swapasdasdile_118: 3832733298788593148
+      swapasdasdile_119: -9037178781937833552
+      swapasdasdile_12: 4681616194942627631
+      swapasdasdile_120: -4067765436424860465
+      swapasdasdile_121: -8923147793489288748
+      swapasdasdile_122: 4780568362874532030
+      swapasdasdile_123: -4430538829863647257
+      swapasdasdile_124: 6464823602076216047
+      swapasdasdile_125: 4053956214756656781
+      swapasdasdile_126: -1908196143437079778
+      swapasdasdile_127: -668355057054601691
+      swapasdasdile_128: 6065350917929042084
+      swapasdasdile_129: 7543442685859534145
+      swapasdasdile_13: -3252048117133663242
+      swapasdasdile_130: -9205877223597679091
+      swapasdasdile_131: 6885785944080806167
+      swapasdasdile_132: -4759371886420211510
+      swapasdasdile_133: -4150176383818138275
+      swapasdasdile_134: 6381514561048463575
+      swapasdasdile_135: -1863829335014440092
+      swapasdasdile_136: 2453061770557916358
+      swapasdasdile_137: -7561451147561330807
+      swapasdasdile_138: 3739128437404382150
+      swapasdasdile_139: 7315584544466758108
+      swapasdasdile_14: -5282136659270079937
+      swapasdasdile_140: 4327122968461685497
+      swapasdasdile_141: -7962978029291387831
+      swapasdasdile_142: -3920108378400874722
+      swapasdasdile_143: -8016473374749126226
+      swapasdasdile_144: 8815201157836699466
+      swapasdasdile_145: -631240678551958026
+      swapasdasdile_146: -4944573816449922784
+      swapasdasdile_147: 1078361165437276024
+      swapasdasdile_148: -222604131440274478
+      swapasdasdile_149: 3567883146408214446
+      swapasdasdile_15: 8003275845761287315
+      swapasdasdile_150: -4723945018654120951
+      swapasdasdile_151: -7172074969543185310
+      swapasdasdile_152: -2484132906365425898
+      swapasdasdile_153: 7332063989316272897
+      swapasdasdile_154: -7374944862928926427
+      swapasdasdile_155: 1626808480560526904
+      swapasdasdile_156: 2509185118825056298
+      swapasdasdile_157: 1313670114730211186
+      swapasdasdile_158: -6301525990181024819
+      swapasdasdile_159: -5326294698843761463
+      swapasdasdile_16: -9015771368466055716
+      swapasdasdile_160: 4158353749120536488
+      swapasdasdile_161: 5180535233275508668
+      swapasdasdile_162: 7998584406262636632
+      swapasdasdile_163: -4240613014610035833
+      swapasdasdile_164: 8907626707990828430
+      swapasdasdile_165: 6382084698574230847
+      swapasdasdile_166: 4899325320692135324
+      swapasdasdile_167: 2797796530330201840
+      swapasdasdile_168: -734692380853905370
+      swapasdasdile_169: 6662066643307461523
+      swapasdasdile_17: 7754908967980288152
+      swapasdasdile_170: 6790418962930009473
+      swapasdasdile_171: 2439415115061685173
+      swapasdasdile_172: -3925365330744269509
+      swapasdasdile_173: 5839286316224694472
+      swapasdasdile_174: -1992372549838995426
+      swapasdasdile_175: 1972751419320732768
+      swapasdasdile_176: 8944503592749360162
+      swapasdasdile_177: -5476791311034515463
+      swapasdasdile_178: -6886791225584001540
+      swapasdasdile_179: 838622844735886491
+      swapasdasdile_18: 5796818143342010891
+      swapasdasdile_180: 7947924142034105419
+      swapasdasdile_181: 2000664800871371967
+      swapasdasdile_182: -6534741999341954718
+      swapasdasdile_183: 4944305610228033913
+      swapasdasdile_184: -8406484223588330010
+      swapasdasdile_185: 1834300779298583081
+      swapasdasdile_186: -436199533143630045
+      swapasdasdile_187: 8519599174052193020
+      swapasdasdile_188: -3387048469190236840
+      swapasdasdile_189: 5988652959130772141
+      swapasdasdile_19: 4933847052650568924
+      swapasdasdile_190: -86241264659524405
+      swapasdasdile_191: -1543352644056546512
+      swapasdasdile_192: 6788090914575836465
+      swapasdasdile_193: -2268570809931979992
+      swapasdasdile_194: -2833082269332138912
+      swapasdasdile_195: 1914230714637109864
+      swapasdasdile_196: 9127680436272357298
+      swapasdasdile_197: -7107566933547503493
+      swapasdasdile_198: 3458513300660998166
+      swapasdasdile_199: -452086852813924602
+      swapasdasdile_2: -3323625992199825746
+      swapasdasdile_20: 7869754031969393933
+      swapasdasdile_200: -8230282955094655110
+      swapasdasdile_201: -6515321425136385338
+      swapasdasdile_202: 3381661711588398956
+      swapasdasdile_203: -7043073119106455063
+      swapasdasdile_204: -7876414279066822995
+      swapasdasdile_205: -341016049835438292
+      swapasdasdile_206: 7059113488415344429
+      swapasdasdile_207: -26740270017164811
+      swapasdasdile_208: 4001388450743599844
+      swapasdasdile_209: 6641121179097550014
+      swapasdasdile_21: -5292875769074937542
+      swapasdasdile_210: -5289200762121736302
+      swapasdasdile_211: -1780778944161064402
+      swapasdasdile_212: 5550476181155118887
+      swapasdasdile_213: 8403051777062274304
+      swapasdasdile_22: 2031907248161069653
+      swapasdasdile_23: 828727249950028747
+      swapasdasdile_24: 8081646959050371144
+      swapasdasdile_25: -1523416811985791405
+      swapasdasdile_26: -7149833671585369407
+      swapasdasdile_27: 6089493386241489657
+      swapasdasdile_28: -5657319393489010442
+      swapasdasdile_29: 8473388855565203906
+      swapasdasdile_3: 6035225364452269960
+      swapasdasdile_30: -6939475545352466713
+      swapasdasdile_31: -5808179309159086475
+      swapasdasdile_32: 8639773104286914394
+      swapasdasdile_33: -560815271317287378
+      swapasdasdile_34: 7863517490149834177
+      swapasdasdile_35: 3390724585472167327
+      swapasdasdile_36: -5931457849620991732
+      swapasdasdile_37: 8263682421795775128
+      swapasdasdile_38: -5693250438445558795
+      swapasdasdile_39: 7916039649388663213
+      swapasdasdile_4: 5081293186781205793
+      swapasdasdile_40: 5693291219175243944
+      swapasdasdile_41: 723670508578683980
+      swapasdasdile_42: 4965382294839941689
+      swapasdasdile_43: -7321851462681783159
+      swapasdasdile_44: 1620046515396506881
+      swapasdasdile_45: 6136326169874904302
+      swapasdasdile_46: -4758016890701253950
+      swapasdasdile_47: 3356148080878725962
+      swapasdasdile_48: -1510727715122532602
+      swapasdasdile_49: -517124341197173675
+      swapasdasdile_5: 6851560432224731590
+      swapasdasdile_50: -7289270373851461152
+      swapasdasdile_51: 2471690991428224550
+      swapasdasdile_52: -2201335991554608893
+      swapasdasdile_53: -4945649846289204991
+      swapasdasdile_54: -6200553358217554258
+      swapasdasdile_55: -3053991393397473954
+      swapasdasdile_56: 3613242890064349652
+      swapasdasdile_57: 4920163383443882687
+      swapasdasdile_58: 4892543744219427979
+      swapasdasdile_59: -3911752996482869456
+      swapasdasdile_6: -8477843402672640042
+      swapasdasdile_60: 1265766327112965470
+      swapasdasdile_61: -5720210134188028899
+      swapasdasdile_62: 7201764252287725333
+      swapasdasdile_63: -3120976349974625397
+      swapasdasdile_64: 8734460301573095269
+      swapasdasdile_65: 2917495156948265710
+      swapasdasdile_66: -6495507901644330932
+      swapasdasdile_67: -8060690167708516134
+      swapasdasdile_68: -5295097367301304441
+      swapasdasdile_69: -7474029254091093259
+      swapasdasdile_7: 4378170658274512355
+      swapasdasdile_70: -7524646674770911284
+      swapasdasdile_71: -2754309698823653682
+      swapasdasdile_72: -1010137356093171475
+      swapasdasdile_73: 7313763360548717586
+      swapasdasdile_74: -4549493384290864174
+      swapasdasdile_75: -8310385583221649299
+      swapasdasdile_76: 7882446046450860745
+      swapasdasdile_77: -6578602099882031187
+      swapasdasdile_78: -1582956834181674944
+      swapasdasdile_79: -3607318521891311400
+      swapasdasdile_8: 3188863555388063841
+      swapasdasdile_80: -8396769187744555542
+      swapasdasdile_81: -2241604494326969675
+      swapasdasdile_82: 5761916543281912689
+      swapasdasdile_83: -6107183807483004707
+      swapasdasdile_84: 1933367160662272984
+      swapasdasdile_85: -6618551423131424625
+      swapasdasdile_86: -7407699784881134121
+      swapasdasdile_87: 4115354274614970198
+      swapasdasdile_88: -2641969736307128623
+      swapasdasdile_89: -5751951192378110777
+      swapasdasdile_9: 4334540257581851235
+      swapasdasdile_90: 8947339529912239830
+      swapasdasdile_91: -503546895526805154
+      swapasdasdile_92: -5338743507817433714
+      swapasdasdile_93: 7884069153716698245
+      swapasdasdile_94: 1743069966048527804
+      swapasdasdile_95: -4830027172293271299
+      swapasdasdile_96: -4861708888861503379
+      swapasdasdile_97: 834844729629272390
+      swapasdasdile_98: -7097646324470267137
+      swapasdasdile_99: 26212331682844479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
