@@ -9,6 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/UiScenes/TitleScreen.unity
     guid: ce3f852853f994bf5836effaab3dfe0b
   - enabled: 1
+    path: Assets/Scenes/UiScenes/Cutscenes/Cutscene1.unity
+    guid: 989ccc9b85cfc474187a1034da6f8baf
+  - enabled: 1
+    path: Assets/Scenes/UiScenes/Cutscenes/Cutscene2.unity
+    guid: 687697481e1fb449cb1bbb4567b50f4f
+  - enabled: 1
+    path: Assets/Scenes/UiScenes/Cutscenes/Cutscene3.unity
+    guid: af41d6c01f8f54582a41cb209e2f70c1
+  - enabled: 1
+    path: Assets/Scenes/BlankLevel 1.unity
+    guid: bf950848bc78e784685f7a065112dc74
+  - enabled: 1
     path: Assets/Scenes/UiScenes/WinScreen.unity
     guid: ca24066a358f64121aa08929e28f3586
   m_configObjects:
